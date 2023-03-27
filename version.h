@@ -7,5 +7,5 @@
 
 #include <string>
 
-static const std::string VERSION = "v1.0";
+static const std::string VERSION = "v2.0";
 #endif //BITMAPIMAGE_CPP_VERSION_H
